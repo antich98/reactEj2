@@ -1,9 +1,8 @@
-import './App.css'
+import "./App.css";
+import Titulos from "./components/Titulos";
 
 function App() {
-  return (
-    <div></div>
-  )
+  return <Titulos tituloNuevo="my friend"/>;
 }
 
-export default App
+export default App;
