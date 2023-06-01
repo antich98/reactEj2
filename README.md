@@ -1,4 +1,4 @@
-# React ej 1
+# React ej 2
 Este proyecto es un trabajo práctico de RollingCode. 
 ## Lenguajes utilizados 👨🏻‍💻
 - HTML 5 
@@ -10,7 +10,7 @@ Este proyecto es un trabajo práctico de RollingCode.
 ## Como clonar el repositorio
 En una terminal ejecuta el siguiente comando:
 ```
-git clone https://github.com/antich98/reactEj1
+git clone https://github.com/antich98/reactEj2
 ```
 ## Autor
 - [Santiago Antich Llarrull](https://github.com/antich98)
